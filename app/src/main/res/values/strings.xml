@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">IKEA Finder</string>
+    <string name="find_nearest_button">Hitta närmaste IKEA</string>
+    <string name="store_list_title">Alla IKEA-butiker</string>
+    <string name="store_details_title">Butiksinformation</string>
+    <string name="open_in_maps">Öppna i Google Maps</string>
+    <string name="opening_hours_label">Öppettider</string>
+    <string name="phone_label">Telefon</string>
+    <string name="website_label">Webbplats</string>
+    <string name="address_label">Adress</string>
+    <string name="distance_km">%d km</string>
+    <string name="distance_nearby">Närliggande</string>
+    <string name="distance_from_you">%d km från dig</string>
+    <string name="ok">OK</string>
+    <string name="back">Tillbaka</string>
+    <string name="searching_location">Söker…</string>
+    <string name="loading_store_info">Laddar butiksinformation…</string>
+    <string name="loading_stores">Laddar butiker…</string>
+    <string name="store_not_found">Butiken kunde inte hittas</string>
+    <string name="could_not_open_store_info">Kunde inte öppna butiksinformation</string>
+    <string name="no_stores_found_search">Inga butiker hittades</string>
+    <string name="location_permission_required_nearest">Platsbehörighet krävs för att hitta närmaste IKEA</string>
+    <string name="could_not_get_location_retry">Kunde inte hämta din position. Försök igen.</string>
+    <string name="using_last_known_position">Använder sist kända position</string>
+    <string name="store_with_id_not_found">Butik med ID %d hittades inte</string>
+    <string name="could_not_load_store_info">Kunde inte ladda butiksinformation</string>
+    <string name="address_description">Adress: %s</string>
+    <string name="opening_hours_description">Öppettider: %s</string>
+    <string name="call_phone_description">Ring %s</string>
+    <string name="visit_website_description">Besök %s</string>
+    <string name="menu_show_store_list_description">Meny - Visa butiklista</string>
+</resources>
